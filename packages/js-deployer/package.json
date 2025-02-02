@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/core-deployer",
-  "description": "Deployer for ARK Core",
+  "name": "@spinachchain/core-deployer",
+  "description": "Deployer for Spinach Chain",
   "version": "0.2.0",
   "contributors": [
     "Alex Barnsley <alex@ark.io>"
   ],
   "license": "MIT",
   "bin": {
-    "ark:deployer": "./bin/deployer"
+    "spinach:deployer": "./bin/deployer"
   },
   "scripts": {
     "start": "./bin/deployer"
